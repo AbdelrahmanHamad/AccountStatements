@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AccountStatements.Api/AccountStatements.Api.csproj" />
+  <Project Path="AccountStatements.Application/AccountStatements.Application.csproj" />
+  <Project Path="AccountStatements.Domain/AccountStatements.Domain.csproj" />
+  <Project Path="AccountStatements.Infrastructure/AccountStatements.Infrastructure.csproj" />
+</Solution>

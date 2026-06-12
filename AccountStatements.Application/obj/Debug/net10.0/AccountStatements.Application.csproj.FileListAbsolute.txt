@@ -1,0 +1,15 @@
+D:\AccountStatements\AccountStatements.Application\bin\Debug\net10.0\AccountStatements.Application.deps.json
+D:\AccountStatements\AccountStatements.Application\bin\Debug\net10.0\AccountStatements.Application.dll
+D:\AccountStatements\AccountStatements.Application\bin\Debug\net10.0\AccountStatements.Application.pdb
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.AssemblyInfoInputs.cache
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.AssemblyInfo.cs
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.csproj.CoreCompileInputs.cache
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.dll
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\refint\AccountStatements.Application.dll
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.pdb
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\ref\AccountStatements.Application.dll
+D:\AccountStatements\AccountStatements.Application\bin\Debug\net10.0\AccountStatements.Domain.dll
+D:\AccountStatements\AccountStatements.Application\bin\Debug\net10.0\AccountStatements.Domain.pdb
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountStatements.Application.csproj.AssemblyReference.cache
+D:\AccountStatements\AccountStatements.Application\obj\Debug\net10.0\AccountS.1D9D0F30.Up2Date
