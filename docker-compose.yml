@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  api:
+    image: accountstatements-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: accountstatements_api_container
+    ports:
+      - "5049:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/account_statements.db
+      - ConnectionStrings__HangfireConnection=/app/data/hangfire.db
+      - SmtpSettings__Server=smtp.gmail.com
+      - SmtpSettings__Port=465
+      - SmtpSettings__SenderName=Account Statements
+      - SmtpSettings__SenderEmail=abdelrahman.h.prog@gmail.com
+      - SmtpSettings__Username=abdelrahman.h.prog@gmail.com
+      - SmtpSettings__Password=nnntjkpzswhmadom
+      - SmtpSettings__EnableSsl=true
+    volumes:
+      - ./data:/app/data
+    restart: always
